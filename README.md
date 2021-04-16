@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Sequelize
 - 💞️ I’m looking to collaborate on my new project
-- 📫 How to reach me vaishakshettykudlu@gmail.com
+- 📫 Reach me vaishakshettykudlu@gmail.com
 
 <!---
 vaishakshettykudlu/vaishakshettykudlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
